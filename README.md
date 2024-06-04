@@ -1,2 +1,1 @@
-# matatu-counter
-This website is meant to help matatu drivers to be signaled immediately the bus is full and hence their journey can begin. It also informs them the number of people who have currently boarded the bus. This helps to easily calculate the amount of fare that can be collected in general. hence easy accountability and budget.
+This website is designed to assist matatu drivers in recognizing when the bus is full and allowing their journey to commence. It also tells them how many passengers are on the bus right now. This makes it easier to figure out how much fare can be collected overall. Hence, budgeting and accountability are simple.
